@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# 🎈 Simplifyed.in - Advanced AI Technical Analysis Dashboard
 
 A simple Streamlit app template for you to modify!
 
