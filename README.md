@@ -1,4 +1,4 @@
-# 🎈 Simplifyed.in - Advanced AI Technical Analysis Dashboard
+# 🎈 Advanced AI Technical Analysis Dashboard by Simplifyed.in 🎈
 
 A web-based tool that performs technical analysis on stock data and generates AI-powered trading recommendations.
 **Key Features:**
@@ -21,8 +21,6 @@ A web-based tool that performs technical analysis on stock data and generates AI
    - Yahoo Query
 
 Built with Streamlit for a clean, interactive interface focused on helping traders make data-driven decisions.
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
 
 ### How to run it on your own machine
 
