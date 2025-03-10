@@ -1,1 +1,9 @@
 streamlit
+yfinance
+pandas
+plotly
+google-generativeai
+numpy
+statsmodels
+fpdf
+yahooquery
