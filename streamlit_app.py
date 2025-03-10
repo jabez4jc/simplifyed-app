@@ -127,7 +127,7 @@ with st.sidebar.expander("**About**"):
     """, unsafe_allow_html=True)
 
 # Input parameters
-tickers_input = st.sidebar.text_input("Enter Stock Tickers (comma-separated):", "IOC.NS, BPCL.NS, TATAPOWER.NS, NTPC.NS, SBIN.NS, TITAGARH.NS")
+tickers_input = st.sidebar.text_input("Enter Stock Tickers (comma-separated):", "^NSEBANK, ^NSEI, IOC.NS, TATAPOWER.NS, SBIN.NS, TITAGARH.NS")
 tickers = [t.strip().upper() for t in tickers_input.split(",") if t.strip()]
 
 # Enable comparative analysis for multiple tickers
